@@ -15,3 +15,5 @@ Pero funciona perfectamente sin el JUnit Test de Java.
 
 https://www.baeldung.com/java-dao-pattern
 https://www.geeksforgeeks.org/software-testing/junit-sample-maven-project-with-jdbc/
+https://www.postgresql.org/docs/7.4/jdbc-query.html
+https://neon.com/postgresql/jdbc/query <- Mismo esquema pero utilizando el DataSource como aparece en la pr3 (googleado)
