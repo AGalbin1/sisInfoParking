@@ -1,0 +1,11 @@
+Explicación:
+
+-- Está organizado en 3 pero mal distribuido, debería de estar distribuido de la siguiente forma:
+Carpeta VO -> Con todas las clases VO (Estas tienen la declaración tanto de setters, como getters, constructor y demás de cada tabla de la BBDD)
+Carpeta DAO -> Implementa las funciones mediante una interfaz.
+Carpeta Jdbc -> Implementa dichas funciones.
+
+Por lo tanto, al hacer el test -> Se ejecuta la consulta en Jdbc recorriendo -> Jdbc - DAO - VO.
+
+El sistema lo he hecho usando Maven (Ya que sino el testeo hay que hacerlo a mano).
+Pero funciona perfectamente sin el JUnit Test de Java.
