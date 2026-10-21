@@ -12,6 +12,12 @@ Pero funciona perfectamente sin el JUnit Test de Java.
 
 -Sigue el esquema que aparece en la práctica 3 del Moodle, la parte de código - Me he basado en ese.
 
+Falta por subir la parte de Parking/Estancia/Incidencia <- 3 tablas.
+Parte de Recompensas/Canjeo <- 2 Tablas.
+Tiene/Vehiculo <- 2 Tablas.
+
+No las he subido ya que primero quiero comprobar si os parece bien el diseño, por modificarlas o no.
+
 
 https://www.baeldung.com/java-dao-pattern
 https://www.geeksforgeeks.org/software-testing/junit-sample-maven-project-with-jdbc/
