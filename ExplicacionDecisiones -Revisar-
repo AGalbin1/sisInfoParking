@@ -9,3 +9,9 @@ Por lo tanto, al hacer el test -> Se ejecuta la consulta en Jdbc recorriendo -> 
 
 El sistema lo he hecho usando Maven (Ya que sino el testeo hay que hacerlo a mano).
 Pero funciona perfectamente sin el JUnit Test de Java.
+
+-Sigue el esquema que aparece en la práctica 3 del Moodle, la parte de código - Me he basado en ese.
+
+
+https://www.baeldung.com/java-dao-pattern
+https://www.geeksforgeeks.org/software-testing/junit-sample-maven-project-with-jdbc/
